@@ -10,7 +10,8 @@ void setup()
 }
 
 void draw() { 
-  background(204);
+  background(152,190,94);
+  
   h1.update(); 
   h2.update();  
   
